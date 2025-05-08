@@ -1,4 +1,4 @@
-# Python-Calculator
+# Python Calculator
 First Download Python: https://www.python.org/downloads/
 
 Download and use it 
